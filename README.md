@@ -7,7 +7,8 @@ Modelo criado para classificar a postura do usuário em tempo real entre Postura
 Dados coletados via gravação própria utilizando a webcam do computador (~60 fotos por classe).
 
 ## 🔗 Link do Modelo Exportado
-[Link do Modelo Hospedado no Teachable Machine]([COLE_SEU_LINK_AQUI](https://teachablemachine.withgoogle.com/models/YLVXkjjrr/))
+[Link do Modelo Hospedado no Teachable Machine]
+https://teachablemachine.withgoogle.com/models/YLVXkjjrr/
 
 ## 📸 Evidências de Funcionamento
 *(Adicione ou anexe aqui os 2 prints tirados durante os testes)*
